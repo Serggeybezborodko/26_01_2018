@@ -1,6 +1,6 @@
 package HomeWork_13_02_2018.hW_22_02_2018;
 
-public class Main {
+public class    Main {
 
     // метод Фибоначи
     static int fibonachi(int n) {
